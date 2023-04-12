@@ -1,6 +1,6 @@
 # Jungle
 
-Jungle is an e-commerce application with features such as product listings, product categories, user authentication, order management, and admin functionality. It is built using Ruby on Rails framework
+Jungle is an e-commerce application with features such as product listings, product categories, user authentication, order management, and admin functionality. It is built using Ruby on Rails framework.
 
 ## Dependencies
 
